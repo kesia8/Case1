@@ -1,1 +1,2 @@
-# Case1
+# Checklist-Travel
+Projeto individual Modulo6
